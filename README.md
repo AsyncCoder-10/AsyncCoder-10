@@ -72,25 +72,16 @@
 
 <table>
   <tr>
-    <!-- LEFT SIDE -->
     <td valign="top" width="50%">
-
-      <!-- GitHub Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=github_dark&show_icons=true&hide_border=false&border_radius=8" />
-
-      <br/><br/>
-
-      <!-- GitHub Streak Card -->
-      <img src="https://streak-stats.demolab.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8" />
-
+      <!-- GitHub Readme Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=radical&show_icons=true&hide_border=false" />
+      <br/>
+      <!-- GitHub Streak Stats -->
+      <img src="https://nirzak-streak-stats.vercel.app/?user=AsyncCoder-10&theme=radical&hide_border=false" />
     </td>
-
-    <!-- RIGHT SIDE -->
     <td valign="top" width="50%">
-
-      <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=github_dark&layout=compact&hide_border=false&border_radius=8" />
-
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=radical&layout=compact&hide_border=false" />
     </td>
   </tr>
 </table>
