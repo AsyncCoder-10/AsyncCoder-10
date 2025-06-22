@@ -85,11 +85,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AsyncCoder-10&icon=0&color=0" />
-</p>
-
-</div>
