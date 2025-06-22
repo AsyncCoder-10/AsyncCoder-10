@@ -1,124 +1,104 @@
 <!-- Apply Comic Sans MS font -->
-<div style="font-family: 'Comic Sans MS', cursive">
-  <h1 align="center">💫 Hey there, I'm Anshuman Behera!</h1>
+<div style="font-family: 'Comic Sans MS', cursive;">
 
-  <p align="center">
-    🎓 M.Tech in Artificial Intelligence & Machine Learning &nbsp;|&nbsp; 🧠 AI
-    Engineer (Frontend Integration) Aspirant &nbsp;|&nbsp; 💻 Blending smart AI
-    systems with seamless frontend experiences
-  </p>
+<h1 align="center">💫 Hey there, I'm Anshuman Behera!</h1>
 
-  --- ## 🧠 About Me - 🎓 Pursuing **M.Tech in AI & ML**, diving into
-  intelligent, adaptive systems - 🔭 Engineering real-world apps using
-  **Python**, focusing on backend logic & API orchestration - 🌱 Learning the
-  **mathematics behind ML** to build smart, data-driven applications - 🧩
-  Targeting roles as an **AI Engineer (Frontend Integration)** - 💬 Skilled in
-  **Angular, React, TypeScript, JavaScript** - 🚀 Developing **AI-powered
-  full-stack apps** that think, learn, and evolve - 📫 Reach me at:
-  [anshu.engg07@gmail.com](mailto:anshu.engg07@gmail.com) --- ## 🧠 Personal
-  Philosophy
+<p align="center">
+  🎓 M.Tech in Artificial Intelligence & Machine Learning &nbsp;|&nbsp;
+  🧠 AI Engineer (Frontend Integration) Aspirant &nbsp;|&nbsp;
+  💻 Blending smart AI systems with seamless frontend experiences
+</p>
 
-  <div align="center">
-    <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" />
-  </div>
+---
 
-  <blockquote align="center">
-    <em>
-      I believe technology should not only work smartly 🤖 but also feel simple
-      ✨ and natural 🌿 to use.<br /><br />
-      My goal is to create applications that solve real problems 🧩 and deliver
-      a smooth 🚀, meaningful 💡 experience.
-    </em>
-  </blockquote>
+## 🧠 About Me
 
-  --- ## 🌐 Connect With Me
+- 🎓 Pursuing **M.Tech in AI & ML**, diving into intelligent, adaptive systems  
+- 🔭 Engineering real-world apps using **Python**, focusing on backend logic & API orchestration  
+- 🌱 Learning the **mathematics behind ML** to build smart, data-driven applications  
+- 🧩 Targeting roles as an **AI Engineer (Frontend Integration)**  
+- 💬 Skilled in **Angular, React, TypeScript, JavaScript**  
+- 🚀 Developing **AI-powered full-stack apps** that think, learn, and evolve  
+- 📫 Reach me at: [anshu.engg07@gmail.com](mailto:anshu.engg07@gmail.com)
 
-  <p align="center">
-    <a
-      href="https://www.instagram.com/a.n_s_h.u/"
-      target="_blank"
-      title="Instagram"
-    >
-      <img
-        src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
-        alt="Instagram"
-      />
-    </a>
-    <a
-      href="https://www.linkedin.com/in/anshuman-behera-26483b190/"
-      target="_blank"
-      title="LinkedIn"
-    >
-      <img
-        src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-        alt="LinkedIn"
-      />
-    </a>
-    <a href="mailto:anshu.engg07@gmail.com" target="_blank" title="Email">
-      <img
-        src="https://img.icons8.com/fluency/48/000000/gmail-new.png"
-        alt="Gmail"
-      />
-    </a>
-  </p>
+---
 
-  --- ## 💻 Tech Stack
+## 🧠 Personal Philosophy
 
-  <p align="center">
-    <img
-      src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-    />
-    <img
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    />
-    <img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"
-    />
-    <img
-      src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-    />
-  </p>
+<div align="center">
+  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" />
+</div>
 
-  ## 📊 GitHub Stats
+<blockquote align="center">
+  <em>
+    I believe technology should not only work smartly 🤖 but also feel simple ✨ and natural 🌿 to use.<br><br>
+    My goal is to create applications that solve real problems 🧩 and deliver a smooth 🚀, meaningful 💡 experience.
+  </em>
+</blockquote>
 
-  <table>
-    <tr>
-      <!-- LEFT: GitHub Overview + Streak -->
-      <td valign="top" width="50%">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=github_dark&show_icons=true&hide_border=false&border_radius=8"
-        />
+---
 
-        <br /><br />
+## 🌐 Connect With Me
 
-        <img
-          src="https://streak-stats.demolab.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8"
-        />
-      </td>
+<p align="center">
+  <a href="https://www.instagram.com/a.n_s_h.u/" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anshuman-behera-26483b190/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anshu.engg07@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+</p>
 
-      <!-- RIGHT: Most Used Languages -->
-      <td valign="top" width="50%">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=github_dark&layout=compact&hide_border=false&border_radius=8"
-        />
-      </td>
-    </tr>
-  </table>
+---
 
-  ---
+## 💻 Tech Stack
 
-  <p align="center">
-    <img
-      src="https://visitcount.itsvg.in/api?id=AsyncCoder-10&icon=0&color=0"
-    />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <!-- LEFT SIDE -->
+    <td valign="top" width="50%">
+
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=github_dark&show_icons=true&hide_border=false&border_radius=8" />
+
+      <br/><br/>
+
+      <!-- GitHub Streak Card -->
+      <img src="https://streak-stats.demolab.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8" />
+
+    </td>
+
+    <!-- RIGHT SIDE -->
+    <td valign="top" width="50%">
+
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=github_dark&layout=compact&hide_border=false&border_radius=8" />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AsyncCoder-10&icon=0&color=0" />
+</p>
+
 </div>
