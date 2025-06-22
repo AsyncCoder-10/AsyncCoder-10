@@ -88,7 +88,7 @@
     />
   </p>
 
-  --- ## 📊 GitHub Stats ## 📊 GitHub Stats
+  ## 📊 GitHub Stats
 
   <table>
     <tr>
