@@ -68,20 +68,29 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+<h2 style="color:#00ff00;">📊 GitHub Stats</h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <!-- GitHub Readme Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=radical&show_icons=true&hide_border=false" />
+      <font color="#00FF00">
+        <img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=radical&show_icons=true&hide_border=false" />
+      </font>
       <br/>
       <!-- GitHub Streak Stats -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=AsyncCoder-10&theme=radical&hide_border=false" />
+      <font color="#00FF00">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=AsyncCoder-10&theme=radical&hide_border=false" />
+      </font>
     </td>
     <td valign="top" width="50%">
       <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=radical&layout=compact&hide_border=false" />
+      <font color="#00FF00">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=radical&layout=compact&hide_border=false" />
+      </font>
     </td>
   </tr>
 </table>
+
