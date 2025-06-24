@@ -112,8 +112,8 @@
           />
           <br /><br />
           <img
-            src="https://streak-stats.demolab.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8"
-          />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8"
+/>
         </td>
         <!-- RIGHT SIDE -->
         <td valign="center" width="60%">
