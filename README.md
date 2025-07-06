@@ -58,43 +58,43 @@
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://img.icons8.com/color/48/javascript--v1.png" height="30" title="JavaScript"/>
-      <img src="https://img.icons8.com/color/48/typescript.png" height="30" title="TypeScript"/>
-      <img src="https://img.icons8.com/color/48/python.png" height="30" title="Python"/>
+      <img src="https://img.icons8.com/color/48/javascript--v1.png" style="height:30px;width:30px;object-fit:contain;" title="JavaScript"/>
+      <img src="https://img.icons8.com/color/48/typescript.png" style="height:30px;width:30px;object-fit:contain;" title="TypeScript"/>
+      <img src="https://img.icons8.com/color/48/python.png" style="height:30px;width:30px;object-fit:contain;" title="Python"/>
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.icons8.com/color/48/angularjs.png" height="30" title="Angular"/>
-      <img src="https://img.icons8.com/officel/48/react.png" height="30" title="React"/>
-      <img src="https://img.icons8.com/fluency/48/net-framework.png" height="30" title=".NET"/>
+      <img src="https://img.icons8.com/color/48/angularjs.png" style="height:30px;width:30px;object-fit:contain;" title="Angular"/>
+      <img src="https://img.icons8.com/officel/48/react.png" style="height:30px;width:30px;object-fit:contain;" title="React"/>
+      <img src="https://img.icons8.com/fluency/48/net-framework.png" style="height:30px;width:30px;object-fit:contain;" title=".NET"/>
     </td>
   </tr>
   <tr>
     <td><strong>Libraries</strong></td>
     <td>
-<img src="https://img.icons8.com/color/48/redux.png" height="30" title="Redux" />
-    <img src="https://img.icons8.com/color/48/bootstrap.png" height="30" title="Bootstrap" />
-    <img src="https://avatars.githubusercontent.com/u/568561?v=4" height="30" title="Kendo UI" />
-    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?ssl=1" height="30" title="PrimeNG" />
+<img src="https://img.icons8.com/color/48/redux.png" style="height:30px;width:30px;object-fit:contain;" title="Redux" />
+    <img src="https://img.icons8.com/color/48/bootstrap.png" style="height:30px;width:30px;object-fit:contain;" title="Bootstrap" />
+    <img src="https://avatars.githubusercontent.com/u/568561?v=4" style="height:30px;width:30px;object-fit:contain;" title="Kendo UI" />
+    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?ssl=1" style="height:30px;width:30px;object-fit:contain;" title="PrimeNG" />
     </td>
   </tr>
   <tr>
     <td><strong>Dev Tools</strong></td>
     <td>
-      <img src="https://img.icons8.com/color/48/git.png" height="30" title="Git"/>
-      <img src="https://img.icons8.com/color/48/github.png" height="30" title="GitHub"/>
-      <img src="https://img.icons8.com/color/48/firebase.png" height="30" title="Firebase"/>
-      <img src="https://img.icons8.com/color/48/azure-1.png" height="30" title="Azure"/>
-      <img src="https://img.icons8.com/color/48/google-cloud.png" height="30" title="GCP"/>
+      <img src="https://img.icons8.com/color/48/git.png" style="height:30px;width:30px;object-fit:contain;" title="Git"/>
+      <img src="https://img.icons8.com/color/48/github.png" style="height:30px;width:30px;object-fit:contain;" title="GitHub"/>
+      <img src="https://img.icons8.com/color/48/firebase.png" style="height:30px;width:30px;object-fit:contain;" title="Firebase"/>
+      <img src="https://img.icons8.com/color/48/azure-1.png" style="height:30px;width:30px;object-fit:contain;" title="Azure"/>
+      <img src="https://img.icons8.com/color/48/google-cloud.png" style="height:30px;width:30px;object-fit:contain;" title="GCP"/>
     </td>
   </tr>
   <tr>
     <td><strong>Backend Integration</strong></td>
     <td>
-      <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" height="30" title="REST API" />
-      <img src="https://img.icons8.com/officel/48/php-logo.png" height="30" title="PHP"/>
+      <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" style="height:30px;width:30px;object-fit:contain;" title="REST API" />
+      <img src="https://img.icons8.com/officel/48/php-logo.png" style="height:30px;width:30px;object-fit:contain;" title="PHP"/>
     </td>
   </tr>
 </table>
