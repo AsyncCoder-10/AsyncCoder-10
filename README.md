@@ -1,128 +1,96 @@
-<div style="font-family: 'Segoe UI', sans-serif">
+<div align="center">
 
-  <h1 align="center">💫 Hey there, I'm Anshuman Behera!</h1>
-
-  <p align="center">
-    🎓 M.Tech in Artificial Intelligence & Machine Learning &nbsp;|&nbsp; 🧠 AI Engineer (Frontend Integration) Aspirant &nbsp;|&nbsp; 💻 Blending smart AI systems with seamless frontend experiences
-  </p>
-
-  <hr>
-
-  <h2>🧠 About Me</h2>
-  <ul>
-    <li>🎓 Pursuing <strong>M.Tech in AI & ML</strong>, diving into intelligent, adaptive systems</li>
-    <li>🔭 Engineering real-world apps using <strong>Python</strong>, focusing on backend logic & API orchestration</li>
-    <li>🌱 Learning the <strong>mathematics behind ML</strong> to build smart, data-driven applications</li>
-    <li>🧩 Targeting roles as an <strong>AI Engineer (Frontend Integration)</strong></li>
-    <li>💬 Skilled in <strong>Angular, React, TypeScript, JavaScript</strong></li>
-    <li>🚀 Developing <strong>AI-powered full-stack apps</strong> that think, learn, and evolve</li>
-    <li>📫 Reach me at: <a href="mailto:anshu.engg07@gmail.com">anshu.engg07@gmail.com</a></li>
-  </ul>
-
-  <hr>
-
-  <h2>🧠 Personal Philosophy</h2>
-  <div align="center">
-    <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="40" />
-  </div>
-  <blockquote align="center">
-    <em>
-      I believe technology should not only work smartly 🤖 but also feel simple ✨ and natural 🌿 to use.<br><br>
-      My goal is to create applications that solve real problems 🧩 and deliver a smooth 🚀, meaningful 💡 experience.
-    </em>
-  </blockquote>
-
-  <hr>
-
-  <h2>🌐 Connect With Me</h2>
-  <p align="center">
-    <a href="https://anshuman-behera.vercel.app/" target="_blank" title="Portfolio">
-      <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" />
-    </a>
-    <a href="https://www.instagram.com/a.n_s_h.u/" target="_blank" title="Instagram">
-      <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/anshuman-behera-26483b190/" target="_blank" title="LinkedIn">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:anshu.engg07@gmail.com" target="_blank" title="Email">
-      <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
-    </a>
-  </p>
-
-  <hr>
-
- <h2>🛠️ Tech Stack & Skills</h2>
-
-<table align="center">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.icons8.com/color/48/javascript--v1.png" style="height:30px;width:30px;object-fit:contain;" title="JavaScript"/>
-      <img src="https://img.icons8.com/color/48/typescript.png" style="height:30px;width:30px;object-fit:contain;" title="TypeScript"/>
-      <img src="https://img.icons8.com/color/48/python.png" style="height:30px;width:30px;object-fit:contain;" title="Python"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://img.icons8.com/color/48/angularjs.png" style="height:30px;width:30px;object-fit:contain;" title="Angular"/>
-      <img src="https://img.icons8.com/officel/48/react.png" style="height:30px;width:30px;object-fit:contain;" title="React"/>
-      <img src="https://img.icons8.com/fluency/48/net-framework.png" style="height:30px;width:30px;object-fit:contain;" title=".NET"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Libraries</strong></td>
-    <td>
-<img src="https://img.icons8.com/color/48/redux.png" style="height:30px;width:30px;object-fit:contain;" title="Redux" />
-    <img src="https://img.icons8.com/color/48/bootstrap.png" style="height:30px;width:30px;object-fit:contain;" title="Bootstrap" />
-    <img src="https://avatars.githubusercontent.com/u/568561?v=4" style="height:30px;width:30px;object-fit:contain;" title="Kendo UI" />
-    <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?ssl=1" style="height:30px;width:30px;object-fit:contain;" title="PrimeNG" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Dev Tools</strong></td>
-    <td>
-      <img src="https://img.icons8.com/color/48/git.png" style="height:30px;width:30px;object-fit:contain;" title="Git"/>
-      <img src="https://img.icons8.com/color/48/github.png" style="height:30px;width:30px;object-fit:contain;" title="GitHub"/>
-      <img src="https://img.icons8.com/color/48/firebase.png" style="height:30px;width:30px;object-fit:contain;" title="Firebase"/>
-      <img src="https://img.icons8.com/color/48/azure-1.png" style="height:30px;width:30px;object-fit:contain;" title="Azure"/>
-      <img src="https://img.icons8.com/color/48/google-cloud.png" style="height:30px;width:30px;object-fit:contain;" title="GCP"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend Integration</strong></td>
-    <td>
-      <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" style="height:30px;width:30px;object-fit:contain;" title="REST API" />
-      <img src="https://img.icons8.com/officel/48/php-logo.png" style="height:30px;width:30px;object-fit:contain;" title="PHP"/>
-    </td>
-  </tr>
-</table>
-
-  <hr>
-
-  <h2>📊 GitHub Stats</h2>
-   <div align="center">
-    <table>
-      <tr>
-        <!-- LEFT SIDE -->
-        <td valign="top" width="60%">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&theme=github_dark&show_icons=true&hide_border=false&border_radius=8&border_color=00FF00"
-          />
-          <br /><br />
-          <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AsyncCoder-10&theme=github-dark&hide_border=false&border_radius=8"
-/>
-        </td>
-        <!-- RIGHT SIDE -->
-        <td valign="center" width="60%">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&theme=github_dark&layout=compact&hide_border=false&border_radius=8&border_color=00FF00"
-          />
-        </td>
-      </tr>
-    </table>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:00C896,100:39FF88&height=180&section=header&text=Anshuman%20Behera&fontSize=42&fontColor=E5FFE9&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20(Frontend%20Integration)&descAlignY=62&descSize=16&descColor=6EE7A8" width="100%"/>
 
 </div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+# anshuman.config.yaml
+role:      AI Engineer — Frontend Integration
+experience: 4+ years
+core:      [Angular, React, TypeScript, JavaScript]
+studying:  M.Tech, AI & ML
+status:    shipping interfaces that think
+contact:   anshu.engg07@gmail.com
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=6EE7A8&center=true&vCenter=true&width=340&lines=building+AI-powered+UIs;Angular+%2B+React+%2B+LLMs;from+DOM+to+embeddings" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### <span style="color:#39FF88">$</span> whoami
+
+I build frontends, then I started wondering what happens if the frontend can reason. Four+ years shipping production UI in Angular and React, now retraining that same instinct for structure and detail on the AI side — model behavior, orchestration, agents that a normal user could actually click through.
+
+<br/>
+
+### <span style="color:#39FF88">$</span> stack --list
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=6EE7A8" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00C896" />
+
+**Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=6EE7A8" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/.NET-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=00C896" />
+
+**Libraries & UI**
+<br/>
+<img src="https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=6EE7A8" />
+<img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/PrimeNG-0A0A0A?style=for-the-badge&logo=primeng&logoColor=00C896" />
+
+**Platforms & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=6EE7A8" />
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=00C896" />
+<img src="https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=6EE7A8" />
+<img src="https://img.shields.io/badge/Google%20Cloud-0A0A0A?style=for-the-badge&logo=googlecloud&logoColor=39FF88" />
+
+</div>
+
+<br/>
+
+### <span style="color:#39FF88">$</span> git log --stats
+
+<!-- <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AsyncCoder-10&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=6EE7A8&icon_color=39FF88&text_color=E5FFE9&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncCoder-10&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=6EE7A8&text_color=E5FFE9&border_radius=10" width="34%"/>
+</div> -->
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsyncCoder-10&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=00C896&fire=39FF88&currStreakLabel=6EE7A8&sideLabels=E5FFE9&dates=6B8A78&currStreakNum=E5FFE9&sideNums=E5FFE9" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=6EE7A8)](https://anshuman-behera.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00C896)](https://www.linkedin.com/in/anshuman-behera-26483b190/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=39FF88)](https://www.instagram.com/a.n_s_h.u/)
+[![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=6EE7A8)](mailto:anshu.engg07@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:00C896,100:0A0A0A&height=100&section=footer" width="100%"/>
