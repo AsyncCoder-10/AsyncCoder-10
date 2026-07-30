@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:00C896,100:39FF88&height=180&section=header&text=Anshuman%20Behera&fontSize=42&fontColor=E5FFE9&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20(GenAI%20Developer)&descAlignY=62&descSize=16&descColor=6EE7A8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:00C896,100:39FF88&height=180&section=header&text=Anshuman%20Behera&fontSize=42&fontColor=E5FFE9&fontAlignY=40&animation=fadeIn&desc=Senior Software Developer%20Engineer%20(GenAI%20Developer)&descAlignY=62&descSize=16&descColor=6EE7A8" width="100%"/>
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ```yaml
 # anshuman.config.yaml
-role:      AI Engineer — Frontend Integration
+role:      Senior Software Developer - GenAI Developer
 experience: 4+ years
-core:      [Angular, React, TypeScript, JavaScript]
+core:      [Angular, React, TypeScript, JavaScript, Python, Panda, LLM, Natural Language Processing, Deep Learning]
 studying:  M.Tech, AI & ML
-status:    shipping interfaces that think
+status:    Shipping Interfaces That Think
 contact:   anshu.engg07@gmail.com
 ```
 
