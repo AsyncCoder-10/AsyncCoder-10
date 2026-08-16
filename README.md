@@ -18,76 +18,30 @@ Currently pursuing an M.Tech in AI & ML alongside hands-on work in LLMs, NLP, an
 
 ## Toolbox
 
-<div align="center">
-
 <table>
-<tr>
-<th align="center">Languages</th>
-<th align="center">Frameworks</th>
-<th align="center">Libraries & UI</th>
-<th align="center">Platforms</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" height="40"/><br/>TypeScript
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=angular" height="40"/><br/>Angular
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redux" height="40"/><br/>Redux
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/>Bootstrap
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=py" height="40"/><br/>Python
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=dotnet" height="40"/><br/>.NET
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=primeng&logoColor=00E676" height="20"/><br/>PrimeNG
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/><br/>Firebase
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=azure" height="40"/><br/>Azure
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=gcp" height="40"/><br/>Google Cloud
-</td>
-</tr>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=ts" height="28"/> TypeScript &nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="28"/> JavaScript &nbsp;
+<img src="https://skillicons.dev/icons?i=py" height="28"/> Python
+</td></tr>
+<tr><td><b>Frameworks</b></td><td>
+<img src="https://skillicons.dev/icons?i=angular" height="28"/> Angular &nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="28"/> React &nbsp;
+<img src="https://skillicons.dev/icons?i=dotnet" height="28"/> .NET
+</td></tr>
+<tr><td><b>Libraries & UI</b></td><td>
+<img src="https://skillicons.dev/icons?i=redux" height="28"/> Redux &nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="28"/> Bootstrap &nbsp;
+<img src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=primeng&logoColor=00E676" height="18"/> PrimeNG
+</td></tr>
+<tr><td><b>Platforms</b></td><td>
+<img src="https://skillicons.dev/icons?i=git" height="28"/> Git &nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="28"/> GitHub &nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="28"/> Firebase &nbsp;
+<img src="https://skillicons.dev/icons?i=azure" height="28"/> Azure &nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" height="28"/> GCP
+</td></tr>
 </table>
-
-</div>
 
 <br/>
 
